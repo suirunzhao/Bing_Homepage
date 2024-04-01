@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bing_Homepage/static/css/main.77dac3d6.css",
+    "main.js": "/Bing_Homepage/static/js/main.ff02866d.js",
+    "index.html": "/Bing_Homepage/index.html",
+    "main.77dac3d6.css.map": "/Bing_Homepage/static/css/main.77dac3d6.css.map",
+    "main.ff02866d.js.map": "/Bing_Homepage/static/js/main.ff02866d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77dac3d6.css",
+    "static/js/main.ff02866d.js"
+  ]
+}
