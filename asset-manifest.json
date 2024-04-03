@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Bing_Homepage/static/css/main.ccc8a606.css",
-    "main.js": "/Bing_Homepage/static/js/main.af3cb9e9.js",
+    "main.css": "/Bing_Homepage/static/css/main.ff875a6c.css",
+    "main.js": "/Bing_Homepage/static/js/main.80c272fa.js",
     "index.html": "/Bing_Homepage/index.html",
-    "main.ccc8a606.css.map": "/Bing_Homepage/static/css/main.ccc8a606.css.map",
-    "main.af3cb9e9.js.map": "/Bing_Homepage/static/js/main.af3cb9e9.js.map"
+    "main.ff875a6c.css.map": "/Bing_Homepage/static/css/main.ff875a6c.css.map",
+    "main.80c272fa.js.map": "/Bing_Homepage/static/js/main.80c272fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccc8a606.css",
-    "static/js/main.af3cb9e9.js"
+    "static/css/main.ff875a6c.css",
+    "static/js/main.80c272fa.js"
   ]
 }
